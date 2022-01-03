@@ -61,11 +61,11 @@ excerpt_separator: "\n\n"
 # Serving
 #detach:  false
 port:    80
-host: http://res.tiankonguse.com
+host: //res.tiankonguse.com
 #host:    192.168.31.137
 #host:    127.0.0.1
 baseurl: "/" # does not include hostname
-url: http://res.tiankonguse.com
+url: //res.tiankonguse.com
 #url: http://192.168.31.137
 #url: http://127.0.0.1
 
